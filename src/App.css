@@ -1,11 +1,28 @@
+
 .App {
   text-align: center;
+  background-image: url("");
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 5%;
+  color: rgb(0, 0, 0);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(243, 243, 243);
+  
 }
 
+p{
+  font-family: 'Farsan';
+  font-size: 26px;
+  margin-top: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
-}
+  }
+
 
 .App-header {
   background-color: #282c34;
@@ -17,6 +34,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
 
 .App-link {
   color: #61dafb;
